@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">hapi-robo</string>
+    <string name="enter_location">Enter Location Name</string>
+    <string name="save_location">Save Location</string>
+    <string name="go_to_location">Go to Location Name</string>
+    <string name="go_to">Go To</string>
+    <string name="enter_speech">Enter something to say</string>
+    <string name="speak">Speak</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="saved_locations">Saved Locations</string>
+    <string name="show_contacts">Show Contacts</string>
+
+
+</resources>
